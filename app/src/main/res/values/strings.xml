@@ -4,6 +4,7 @@
     <string name="programming">Книги по программированию</string>
     <string name="fiction">Художественная литература</string>
     <string name="philosophy">Философия</string>
+    <string name="read">чиать</string>
 
     <string name="android_professional">Android программирование для профессионалов</string>
     <string name="android_professionalLong">688 стр</string>
@@ -65,6 +66,9 @@
     <string name="man_in_searchAuthor">Виктор Франкл</string>
     <string name="man_in_searchRating">5</string>
 
+    <string name="templateText">TEMPLATE TEXT</string>
 
-
+    <string name="longMovie">Длительность:</string>
+    <string name="authorMovie">Автор:</string>
+    <string name="ratingMovie">Рейтинг:</string>
 </resources>
