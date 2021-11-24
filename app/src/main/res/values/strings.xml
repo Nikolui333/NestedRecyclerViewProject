@@ -1,3 +1,70 @@
 <resources>
     <string name="app_name">NestedRecyclerViewProject</string>
+    <string name="developing_literature">Развивающая литература</string>
+    <string name="programming">Книги по программированию</string>
+    <string name="fiction">Художественная литература</string>
+    <string name="philosophy">Философия</string>
+
+    <string name="android_professional">Android программирование для профессионалов</string>
+    <string name="android_professionalLong">688 стр</string>
+    <string name="android_professionalAuthor">Б. Филлипс</string>
+    <string name="android_professionalRating">5</string>
+
+    <string name="noise">Много шума из ничего</string>
+    <string name="noiseLong">80 стр</string>
+    <string name="noiseAuthor">Уильям Шекспир</string>
+    <string name="noiseRating">5</string>
+
+    <string name="learning_java">Изучаем java</string>
+    <string name="learning_javaLong">708 стр</string>
+    <string name="learning_javaAuthor">К. Сьерра</string>
+    <string name="learning_javaRating">5</string>
+
+    <string name="onegin">Евгений Онегин</string>
+    <string name="oneginLong">608 стр</string>
+    <string name="oneginAuthor">Александр Пушкин</string>
+    <string name="oneginRating">5</string>
+
+    <string name="head_first">Программирование для Android</string>
+    <string name="head_firstLong">912 стр</string>
+    <string name="head_firstAuthor">Дон Гриффитс</string>
+    <string name="head_firstRating">4</string>
+
+    <string name="pride_and_prejudice">Гордость и предубеждение</string>
+    <string name="pride_and_prejudiceLong">480 стр</string>
+    <string name="pride_and_prejudiceAuthor">Джейн Остин</string>
+    <string name="pride_and_prejudiceRating">5</string>
+
+    <string name="instruction_for_the_brain">Мозг. Инструкция по применению</string>
+    <string name="instruction_for_the_brainLong">380 стр</string>
+    <string name="instruction_for_the_brainAuthor">Дэвид Рок</string>
+    <string name="instruction_for_the_brainRating">5</string>
+
+    <string name="jedi_techniques">Джедайские техники</string>
+    <string name="jedi_techniquesLong">280 стр</string>
+    <string name="jedi_techniquesAuthor">Максим Дорофеев</string>
+    <string name="jedi_techniquesRating">5</string>
+
+    <string name="speed_reading">Скорочтение на практике</string>
+    <string name="speed_readingLong">260 стр</string>
+    <string name="speed_readingAuthor">Павел Палагин</string>
+    <string name="speed_readingRating">4</string>
+
+    <string name="strength_of_will">Сила воли, как развить и укрепить</string>
+    <string name="strength_of_willLong">320 стр</string>
+    <string name="strength_of_willAuthor">Келли Макгонигал</string>
+    <string name="strength_of_willRating">4</string>
+
+    <string name="welcome_to_class">Добро пожаловать в класс превосходства</string>
+    <string name="welcome_to_classLong">3764 стр</string>
+    <string name="welcome_to_classAuthor">Сёго Кинугаса</string>
+    <string name="welcome_to_classRating">5</string>
+
+    <string name="man_in_search">Человек в поисках смысла</string>
+    <string name="man_in_searchLong">372 стр</string>
+    <string name="man_in_searchAuthor">Виктор Франкл</string>
+    <string name="man_in_searchRating">5</string>
+
+
+
 </resources>
